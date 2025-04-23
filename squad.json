@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0-beta.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/squadbase/squadbase/releases/download/v0.1.0-beta.2/squad_0.1.0-Beta.2_windows_x86_64.zip",
+            "bin": [
+                "squad.exe"
+            ],
+            "hash": "ee958ea5e69373e970537d4b267ee1d532477d032e345e7aab81bc781a675a8c"
+        }
+    },
+    "homepage": "https://github.com/squadbase/squadbase",
+    "license": "Apache License 2.0",
+    "description": "Squadbase CLI"
+}
