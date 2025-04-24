@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0-beta.12",
+    "version": "0.1.0-beta.13",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/squadbase/squadbase/releases/download/v0.1.0-beta.12/squad_0.1.0-Beta.12_windows_x86_64.zip",
+            "url": "https://github.com/squadbase/squadbase/releases/download/v0.1.0-beta.13/squad_0.1.0-Beta.13_windows_x86_64.zip",
             "bin": [
                 "squad.exe"
             ],
-            "hash": "73e04a7eb2e7d2ba430ecbc0177d4d202c3d7f64811fb957a1d4005b64dc0bb4"
+            "hash": "83e57c8eb07f02a1b08838514cdba3fb26c75466653675ed662803740c1ec370"
         }
     },
     "homepage": "https://github.com/squadbase/squadbase",
